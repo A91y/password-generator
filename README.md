@@ -28,3 +28,6 @@
 :warning: The no. you chose will be 94<sup>{no. you chose}</sup>
 Be CareFull.
 Don't Try typing 20 untill you have a SUPER COMPUTER
+
+❤️ Don't Forget to give a 🌟 (Star)...
+❤️ Happy Coding...
