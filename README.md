@@ -25,7 +25,7 @@
 
 ```Enter the no. of characters passwords must be (maximum - 20): ```
 
-:warning: The no. you chose will be 94<sup>{no. you chose}</sup>
+⚠️ The no. you chose will be 94<sup>{no. you chose}</sup>
 Be CareFull.
 Don't Try typing 20 untill you have a SUPER COMPUTER
 
