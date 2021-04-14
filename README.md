@@ -11,7 +11,7 @@
 
 ### Clone
 
-```git clone https://github.com/AyushAgrawalProgrammer/password-generator.git```
+```git clone https://github.com/A91y/password-generator.git```
 
 ### Run Password-generator
 
