@@ -1,5 +1,5 @@
 # Password-generator
-[![Version](https://img.shields.io/badge/Version-v1.0.0-blue)](https://www.github.com/A91y/password-generator.git)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-blue)](https://www.github.com/A91y/password-generator.git)
 [![Python](https://img.shields.io/badge/Python-v3.6%2B-green)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Open Source](https://github.com/firstcontributions/open-source-badges/blob/master/badges/open-source-v3/open-source.png?raw=true)
