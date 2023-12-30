@@ -16,7 +16,7 @@
 
 ### Run Password-generator
 
-```python Password-Generator.py```
+```python Password-Generator-v2.py```
 
 #### Input File Name
 
